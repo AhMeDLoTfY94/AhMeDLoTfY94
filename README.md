@@ -1,9 +1,4 @@
-### Hi there 👋
 
-<!--
-**AhMeDLoTfY94/AhMeDLoTfY94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm AhMeDLoTfY94</h1>
 <h3 align="center">Python/Django developer</h3>
