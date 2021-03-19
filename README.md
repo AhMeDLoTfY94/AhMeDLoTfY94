@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm AhMeDLoTfY94</h1>
+<h1 align="center">Hi 👋, I'm Ahmed Lotfy</h1>
 <h3 align="center">Python/Django developer</h3>
 
 - 🔭 I’m currently working on **STOCK MANAGEMENT SYSTEM**
