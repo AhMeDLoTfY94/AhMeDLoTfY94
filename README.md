@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Lotfy</h1>
 <h3 align="center">Python/Django developer</h3>
+<h3 align="center">PhP/Laravel developer</h3>
 
 - 🔭 I’m currently working on **STOCK MANAGEMENT SYSTEM**
 
@@ -7,7 +8,7 @@
 
 - 📝 I regularly write articles on [http://hoom.herokuapp.com/](http://hoom.herokuapp.com/)
 
-- 💬 Ask me about **js,react,django,python**
+- 💬 Ask me about **js,react,django,python,php,Laravel**
 
 - 📫 How to reach me **ahmed211044@gmail.com**
 
